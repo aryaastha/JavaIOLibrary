@@ -1,0 +1,55 @@
+# Compiled source #
+###################
+*.a
+*.class
+*.dll
+*.dylib
+*.exe
+*.la
+*.lai
+*.lo
+*.o
+*.slo
+*.so
+*.pb.h
+*.pb.cc
+*.checkstyle
+*.autotools
+*.classpath
+*.factorypath
+*.gcov
+
+# Packages #
+############
+*.7z
+*.dmg
+*.ear
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.tgz
+*.war
+*.zip
+
+# Logs and databases #
+######################
+*.log
+
+# Temporary files    #
+######################
+# Emacs
+*~
+*.BAK
+*.CKP
+\#*#
+
+# Intellij Files #
+.idea/
+*.iml
+*.iws
+*.project
+*.cproject
+
+target/
